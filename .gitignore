@@ -1,0 +1,11 @@
+.idea/
+*.iml
+*.log
+out/
+.DS_Store
+todo.md
+lib/
+*.mvn
+mvnw
+mvnw.cmd
+target/
